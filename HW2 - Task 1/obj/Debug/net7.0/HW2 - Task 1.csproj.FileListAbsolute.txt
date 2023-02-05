@@ -1,0 +1,15 @@
+/Users/alexa/Documents/GB/С#-HW2/HW2 - Task 1/bin/Debug/net7.0/HW2 - Task 1
+/Users/alexa/Documents/GB/С#-HW2/HW2 - Task 1/bin/Debug/net7.0/HW2 - Task 1.deps.json
+/Users/alexa/Documents/GB/С#-HW2/HW2 - Task 1/bin/Debug/net7.0/HW2 - Task 1.runtimeconfig.json
+/Users/alexa/Documents/GB/С#-HW2/HW2 - Task 1/bin/Debug/net7.0/HW2 - Task 1.dll
+/Users/alexa/Documents/GB/С#-HW2/HW2 - Task 1/bin/Debug/net7.0/HW2 - Task 1.pdb
+/Users/alexa/Documents/GB/С#-HW2/HW2 - Task 1/obj/Debug/net7.0/HW2 - Task 1.csproj.AssemblyReference.cache
+/Users/alexa/Documents/GB/С#-HW2/HW2 - Task 1/obj/Debug/net7.0/HW2 - Task 1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alexa/Documents/GB/С#-HW2/HW2 - Task 1/obj/Debug/net7.0/HW2 - Task 1.AssemblyInfoInputs.cache
+/Users/alexa/Documents/GB/С#-HW2/HW2 - Task 1/obj/Debug/net7.0/HW2 - Task 1.AssemblyInfo.cs
+/Users/alexa/Documents/GB/С#-HW2/HW2 - Task 1/obj/Debug/net7.0/HW2 - Task 1.csproj.CoreCompileInputs.cache
+/Users/alexa/Documents/GB/С#-HW2/HW2 - Task 1/obj/Debug/net7.0/HW2 - Task 1.dll
+/Users/alexa/Documents/GB/С#-HW2/HW2 - Task 1/obj/Debug/net7.0/refint/HW2 - Task 1.dll
+/Users/alexa/Documents/GB/С#-HW2/HW2 - Task 1/obj/Debug/net7.0/HW2 - Task 1.pdb
+/Users/alexa/Documents/GB/С#-HW2/HW2 - Task 1/obj/Debug/net7.0/HW2 - Task 1.genruntimeconfig.cache
+/Users/alexa/Documents/GB/С#-HW2/HW2 - Task 1/obj/Debug/net7.0/ref/HW2 - Task 1.dll
